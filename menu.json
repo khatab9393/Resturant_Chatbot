@@ -1,0 +1,168 @@
+{
+ "restaurant": "Quick Bite",
+ "hours": "Every day 10:00-01:00",
+ "address": "45 Main Avenue",
+ "phone": "+90 555 000 00 00",
+ "items": [
+  {
+   "name": "Margherita Pizza",
+   "category": "Pizza",
+   "price": 200,
+   "description": "Tomato sauce, mozzarella",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Pepperoni Pizza",
+   "category": "Pizza",
+   "price": 250,
+   "description": "Tomato sauce, mozzarella, pepperoni",
+   "tags": []
+  },
+  {
+   "name": "Spicy Chicken Pizza",
+   "category": "Pizza",
+   "price": 270,
+   "description": "Spicy chicken, mozzarella, jalapeno, hot sauce",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "name": "Spicy Chicken (3 pcs)",
+   "category": "Chicken",
+   "price": 180,
+   "description": "Crispy fried chicken with hot spice coating",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "name": "Spicy Chicken (6 pcs)",
+   "category": "Chicken",
+   "price": 320,
+   "description": "Crispy fried chicken with hot spice coating",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "name": "Chicken Nuggets (8 pcs)",
+   "category": "Chicken",
+   "price": 150,
+   "description": "Crispy chicken nuggets with a dip",
+   "tags": []
+  },
+  {
+   "name": "Chicken Wings (6 pcs)",
+   "category": "Chicken",
+   "price": 190,
+   "description": "Oven-baked wings, BBQ or hot sauce",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "name": "Cheeseburger",
+   "category": "Burgers",
+   "price": 140,
+   "description": "Beef patty, cheddar, pickles, ketchup",
+   "tags": []
+  },
+  {
+   "name": "Spicy Chicken Burger",
+   "category": "Burgers",
+   "price": 160,
+   "description": "Crispy spicy chicken, lettuce, mayo",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "name": "French Fries",
+   "category": "Sides",
+   "price": 60,
+   "description": "Golden salted fries",
+   "tags": [
+    "vegetarian",
+    "vegan"
+   ]
+  },
+  {
+   "name": "Onion Rings",
+   "category": "Sides",
+   "price": 70,
+   "description": "Crispy battered onion rings",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Garlic Bread",
+   "category": "Sides",
+   "price": 65,
+   "description": "Toasted bread with garlic butter",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Vanilla Ice Cream",
+   "category": "Desserts",
+   "price": 60,
+   "description": "Two scoops of vanilla ice cream",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Chocolate Brownie",
+   "category": "Desserts",
+   "price": 85,
+   "description": "Warm brownie with chocolate sauce",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Cola",
+   "category": "Drinks",
+   "price": 40,
+   "description": "330 ml can",
+   "tags": [
+    "vegetarian",
+    "vegan"
+   ]
+  },
+  {
+   "name": "Lemonade",
+   "category": "Drinks",
+   "price": 55,
+   "description": "House-made lemonade",
+   "tags": [
+    "vegetarian",
+    "vegan"
+   ]
+  },
+  {
+   "name": "Ayran",
+   "category": "Drinks",
+   "price": 35,
+   "description": "Traditional yogurt drink",
+   "tags": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Water",
+   "category": "Drinks",
+   "price": 15,
+   "description": "500 ml bottle",
+   "tags": [
+    "vegetarian",
+    "vegan"
+   ]
+  }
+ ]
+}
